@@ -43,6 +43,11 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: all 0.4s;
 }
+.logo-container {
+ 
+  border-radius: 20%; /* Makes the corners rounded */
+}
+
 
 .back-to-top i {
   font-size: 28px;
